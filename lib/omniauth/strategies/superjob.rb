@@ -10,7 +10,7 @@ module OmniAuth
 
       DEFAULT_SCOPE = ''
 
-      option :name, 'headhunter'
+      option :name, 'superjob'
 
       option :client_options, {
                               :site          => 'https://www.superjob.ru/',
